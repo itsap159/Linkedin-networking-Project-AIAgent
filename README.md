@@ -48,7 +48,7 @@ pipenv shell
 - Set up the API keys. Reference the .env.example file fore reference.
 
 ```bash
-LINKEDIN_API_KEY=your_linkedin_api_key
+PROXYURL_API_KEY=your_api_key
 OPENAI_API_KEY=your_openai_api_key
 TAVILLY_KEY=your_tavilly_key
 ```
