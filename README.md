@@ -63,6 +63,6 @@ The AI agents will autonomously scrape and analyze the LinkedIn profiles, provid
 ---
 
 ## Configuration
-OpenAI API Key: Get your API key from OpenAI.
-Tavilly API: For profile data access, you need to generate a Tavilly API key.
-Proxy URL: Configure the proxy url api for LinkedIn scraping.
+- OpenAI API Key: Get your API key from OpenAI.
+- Tavilly API: For profile data access, you need to generate a Tavilly API key.
+- Proxy URL: Configure the proxy url api for LinkedIn scraping.
