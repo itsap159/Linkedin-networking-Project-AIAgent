@@ -32,8 +32,9 @@
 - Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/melt-genai-networking.git
-   cd melt-genai-networking
+   git clone https://github.com/itsap159/Linkedin-networking-Project-AIAgent.git
+   cd Linkedin-networking-Project-AIAgent
+   ```
 
 - Create and activate a virtual environment:
 
@@ -41,6 +42,7 @@
 pipenv install
 pipenv shell
 ```
+---
 
 ## Usage
 - Set up the API keys. Reference the .env.example file fore reference.
@@ -57,6 +59,8 @@ python app.py
 ```
 
 The AI agents will autonomously scrape and analyze the LinkedIn profiles, providing actionable networking insights and icebreakers.
+
+---
 
 ## Configuration
 OpenAI API Key: Get your API key from OpenAI.
