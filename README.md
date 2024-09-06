@@ -23,7 +23,6 @@
 
 - **Backend**: Flask, Python
 - **AI Models**: OpenAI, LangChain
-- **Frontend**: HTML/CSS (Optional, if any UI is involved)
 - **APIs**: Tavilly, Proxy URL
 
 ---
